@@ -8,6 +8,7 @@ namespace CompAndDel.Filters
     /// </remarks>
     public class FilterNegative : IFilter
     {
+
         /// Un filtro que retorna el negativo de la imagen recibida.
         /// </summary>
         /// <param name="image">La imagen a la cual se le va a aplicar el filtro.</param>

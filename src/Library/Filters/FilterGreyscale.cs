@@ -7,6 +7,7 @@ namespace CompAndDel.Filters
     /// </remarks>
     public class FilterGreyscale : IFilter
     {
+
         /// <summary>
         /// Un filtro que retorna la imagen recibida con un filtro de escala de grises aplicado.
         /// </summary>

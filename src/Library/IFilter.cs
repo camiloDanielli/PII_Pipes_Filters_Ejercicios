@@ -8,6 +8,7 @@ namespace CompAndDel
     /// </remarks>
     public interface IFilter
     {
+
         /// <summary>
         /// Procesa la imagen pasada por parametro y retorna la misma imagen o una nueva.
         /// </summary>
